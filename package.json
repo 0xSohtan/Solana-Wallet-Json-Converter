@@ -1,0 +1,22 @@
+{
+  "name": "solana-wallet-json-converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xSohtan/Solana-Wallet-Json-Converter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xSohtan/Solana-Wallet-Json-Converter/issues"
+  },
+  "homepage": "https://github.com/0xSohtan/Solana-Wallet-Json-Converter#readme",
+  "dependencies": {
+    "bs58": "^5.0.0"
+  }
+}
